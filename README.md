@@ -4,7 +4,8 @@
 https://meet.google.com/ugx-iskt-vbc
 
 **Python Download Link:**<br>
-**Anaconda Download Link:** https://www.anaconda.com/products/distribution
+**Anaconda Download Link:**<br>
+https://www.anaconda.com/products/distribution
 
 **Online Python Editors:**<br>
 https://onecompiler.com/<br>
