@@ -3,7 +3,7 @@
 **GMeet Link:**<br>
 https://meet.google.com/ugx-iskt-vbc
 
-**Project Group Formation (2) Link for Batch-2:**
+**Project Group Formation (2) Link for Batch-2:**<br>
 https://bit.ly/3RsEumK
 
 **Python Download Link:**<br>
