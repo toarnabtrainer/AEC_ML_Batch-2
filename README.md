@@ -3,6 +3,9 @@
 **GMeet Link:**<br>
 https://meet.google.com/ugx-iskt-vbc
 
+**Project Group Formation (2) Link for Batch-2:**
+https://bit.ly/3RsEumK
+
 **Python Download Link:**<br>
 **Anaconda Download Link:**<br>
 https://www.anaconda.com/products/distribution
